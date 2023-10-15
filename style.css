@@ -1,0 +1,75 @@
+body{
+    background-color: #2B2922;
+    color: white;
+}
+.fla,.logo{
+    display:  flex;
+
+}
+.fla,.nav{
+    display: flex;
+}
+.logo{
+    display: block;
+}
+.header,.fla{
+    display: flex;
+}
+.your,.para{
+    display: inline-block;
+}
+.your,.para{
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.para{
+
+}
+.your{
+    font-size:xxx-large;
+}
+.fla{
+    margin-left: 140px;
+}
+.na{
+    margin-left: 49px;
+    color: #A6A5A1;
+}
+.get{
+    margin-left: 30px;
+    height: 34px;
+    background-color: transparent;
+    border-color: #474127;
+    border-style: solid;
+    border-radius: 4px;
+    color:#9c8c32 ;
+    padding: 7px 17px;
+}
+.logo{
+    height: 30px;
+}
+.para{
+    color: #A6A5A1;
+    margin-left: 130px;
+}
+.header{
+    margin-left: 200px;
+    margin-top: 55px;
+   padding-top:none ;
+    
+}
+.imgs{
+    margin-left: 200px;
+}
+.na{
+    cursor: pointer;
+}
+.get{
+    cursor: pointer;
+}
+.your{
+    font-size: 40px;
+}
+*{
+    margin-left: 9px;
+}
